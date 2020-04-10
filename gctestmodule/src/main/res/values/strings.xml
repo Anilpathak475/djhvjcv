@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GcTestModule</string>
+    <string name="nahrmittel">Nahrmittel</string>
+    <string name="obst_gemuse"><![CDATA[Obst & Gemuse]]></string>
+    <string name="tiernahrung">Tiernahrung</string>
+    <string name="pflanzen">Pflanzen</string>
+</resources>
